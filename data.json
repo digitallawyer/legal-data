@@ -1,9 +1,0 @@
-
-{"European Capitals": 
-  [
-    {"country_code": "ad", "capital_name": "Andorra", "latitude": "42.5", "longitude": "1.5165"}, 
-    {"country_code": "al", "capital_name": "Tirana", "latitude": "41.3275", "longitude": "19.8189"}, 
-    {"country_code": "at", "capital_name": "Vienna", "latitude": "48.2", "longitude": "16.3666"}, 
-    {"country_code": "ba", "capital_name": "Sarajevo", "latitude": "43.85", "longitude": "18.383"}
-  ]
-}
